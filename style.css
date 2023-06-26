@@ -1,0 +1,13 @@
+h1 {
+    font-size: 100px;
+    font-weight: 900;
+    text-align: center;
+    background-color: #008b8b;
+    color:#ff7f50;
+}
+
+p {
+    font-size: 26px;
+    padding: 50px;
+    color: blue;
+}
